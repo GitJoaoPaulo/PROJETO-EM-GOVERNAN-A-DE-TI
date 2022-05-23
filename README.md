@@ -8,15 +8,16 @@
 ## Integrantes
  
 
-* Gustavo Henrique Lourenço Santinho
-* João Paulo Ribeiro da Silva
-* Marcus Vinicius Reis
-* Wanderson Moises Alves Machado Junior
-* Gustavo Melo da Silva
-* Gabriel Barbosa Sabatine Roda
-* Allan Gardin Fernando
-* Lucas roberto do Nascimento
-* Thauan Mendes de Lima
+* RA:3020103453 Allan Gardin Fernando 
+* RA:3020101959 Gabriel Barbosa Sabatine Roda
+* RA:3020109774 Guilherme Russo Lins de Albuquerque  
+* RA:3020100576 Gustavo Henrique Lourenço Santinho 
+* RA:3020101055 Gustavo Melo da Silva 
+* RA:3020105882 João Paulo Ribeiro da Silva 
+* RA:3020106075 Lucas roberto do Nascimento 
+* RA:3020107050 Marcus Vinicius Reis
+* RA:3020101429 Thauan Mendes de Lima 
+* RA:3020100602 Wanderson Moises Alves Machado Junior
 
 
 ## Professor
